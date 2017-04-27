@@ -2,8 +2,8 @@
 
 ## Running
 In the root directory of the project type:   
-mvn package  
-cp target/api.war <Your tomcat installation dir>/webapps
+`mvn package`
+`cp target/api.war <Your tomcat installation dir>/webapps`
 
 ## Useage
 
